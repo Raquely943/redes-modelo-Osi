@@ -45,26 +45,3 @@ Função: Fornece uma interface para o usuário interagir diretamente com a rede
 
 Exemplos: HTTP (web), FTP (transferência de arquivos), SMTP (e-mail).
 
-Resumo Visual
-
-1. Física - Hardware e transmissão bruta.
-
-
-2. Enlace de Dados - Comunicação local confiável.
-
-
-3. Rede - Roteamento entre redes.
-
-
-4. Transporte - Conexão confiável ponta a ponta.
-
-
-5. Sessão - Gerenciamento de conexões.
-
-
-6. Apresentação - Formatação e segurança dos dados.
-
-
-7. Aplicação - Interação com o usuário.
-
-Cada camada depende da anterior e fornece serviços para a seguinte. O modelo OSI é teórico e usado para padronização; muitos protocolos modernos, como o TCP/IP, seguem uma abordagem prática simplificada.
